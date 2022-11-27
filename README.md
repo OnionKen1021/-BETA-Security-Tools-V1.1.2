@@ -1,8 +1,8 @@
- 🎁 Software -- PC Tools BETA V3.3.1 <br />
- 🎀 Creadit  -- OnionKen1021<br />
+ 🎁 Software -- Security Tools V1.2 <br />
+ 🎀 Creadit  -- OnionKen1021 <br />
  📀 Website  -- making...... <br />
  🛑 Language -- C# Windows Form (NET Version) <br />
- ❤️ Version  -- BETA 3.3.1 <br />
+ ❤️ Version  -- BETA 1.1.2 <br />
  🚩 Details  -- Software <br />
  ===========================================================================<br />
  <br />
@@ -14,7 +14,6 @@
  ===========================================================================<br />
  <br />
  🎁 Used Creadit: <br />
- ⭕ lsantoss <br />
  ⭕ Guna2.WinForm <br />
  ⭕ Microsoft Visual Studio <br />
  ⭕ NET Framework 4.8 <br />
@@ -29,4 +28,4 @@
  
  🎁 安裝方式: <br /> 
  請至以下連結尋找Download按鈕 備註:此軟體並未攜帶病毒 Windows 誤判皆為正常現象 <br /> 
- https://github.com/OnionKen1021/-BETA-PC-Tools-V3.3.1/blob/main/PC%20Tools%20Installer%20V2.2.1.msi
+ https://www.mediafire.com/file/jernw1v5y0uzh63/Security_Tools_V1.2.msi/file
